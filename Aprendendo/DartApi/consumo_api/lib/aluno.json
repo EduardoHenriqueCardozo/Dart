@@ -1,0 +1,31 @@
+{
+    "nome": "Eduardo Henrique",
+    "idade": 39,
+    "nomeCursos": [
+        "Academia do flutter",
+        "Imersão GetX",
+        123123,
+        true
+    ],
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "Academia do flutter",
+            "isAluno": true
+        },
+        {
+            "id": 2,
+            "nome": "Imersão GetX",
+            "isAluno": false
+        }
+    ],
+    "telefone": {
+        "ddd": 11,
+        "telefone": 981399928
+    },
+    "endereco": {
+        "rua": "Rua X",
+        "numero": 200,
+        "CEP": "013331100"
+    }
+}

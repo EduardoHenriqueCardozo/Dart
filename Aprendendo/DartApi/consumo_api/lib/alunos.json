@@ -1,0 +1,25 @@
+[
+    {
+        "nome": "Eduardo Henrique",
+        "idade": 23,
+        "nomeCursos": [
+            "Academia do flutter",
+            "Imersão GetX"
+        ]
+    },
+    {
+        "nome": "José melo",
+        "idade": 52,
+        "nomeCursos": [
+            "Academia do flutter",
+            "Imersão GetX"
+        ]
+    },
+    {
+        "nome": "Luciani Siqueira",
+        "idade": 47,
+        "nomeCursos": [
+            "Imersão GetX"
+        ]
+    }
+]
